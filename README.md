@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Kid-Care helps parents manage their children's screen time and application usage.
 ![splash screen](https://user-images.githubusercontent.com/38101471/215426207-1cb6e6db-6455-41b1-a2e9-e70d1477fd93.png)
@@ -9,3 +10,6 @@
 ![settime](https://user-images.githubusercontent.com/38101471/215426455-ec383bfd-db9c-485e-beb1-0ed7053feb7a.png)
 ![setting](https://user-images.githubusercontent.com/38101471/215426476-a559f9d5-4de3-4105-ad35-2f45d7a29f9b.png)
 
+=======
+# kids_care_application
+>>>>>>> 27e54d07bd54e1681ae6b61418a9216cf32a4441
